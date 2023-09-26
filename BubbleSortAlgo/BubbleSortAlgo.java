@@ -29,4 +29,6 @@ public class BubbleSortAlgo {
     }
 }
 
-// space complexity -> O(N^2)
+// space complexity -> O(1)
+// worst Time complexity -> O(N^2)
+// best Time complexity -> O(N)
