@@ -1,5 +1,5 @@
 package BinarySearchIn2DArray;
-
+//Search in a row wise and column wise sorted matrix
 import java.util.Arrays;
 
 public class RowColSearch {
