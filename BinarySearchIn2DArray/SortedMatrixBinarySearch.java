@@ -1,5 +1,6 @@
 package BinarySearchIn2DArray;
 // Matrix is purely sorted
+// https://www.geeksforgeeks.org/searching-algorithms-for-a-2d-arrays-matrix/
 import java.util.Arrays;
 
 public class SortedMatrixBinarySearch {
